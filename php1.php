@@ -1,3 +1,4 @@
-<?php
+<?ph
 
-phpinfo();
+php5info();
+456
